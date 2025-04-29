@@ -1,6 +1,9 @@
 # AOP-HUD
 
 ----------------------------
+# Required Files
+
+1. nearest-postal IS REQUIRED OR POSTAL WILL NOT WORK!!!
 
 # How to add to Game?
 
