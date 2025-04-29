@@ -40,5 +40,6 @@
 ### Commands:
 - **/setaop [AOP Name]** - Change the Area of Operation (AOP).
 
+# [SHOWCASE!](https://youtu.be/CCGqQ6v-Ysc?si=7Nr13FR3WkAb5Tfh)
 ### License:
 This script is released under the MIT License. Feel free to use and modify it.
